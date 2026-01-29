@@ -2,7 +2,7 @@
 
 **Last updated:** 2026/01/26
 
-This Privacy Policy describes how **GasTracker: Multi-Fuel** (hereinafter "the Application") collects, uses, and handles user data.
+This Privacy Policy describes how **DriveLog: Multi-Fuel Car Costs** (hereinafter "the Application") collects, uses, and handles user data.
 
 The Application is developed by **Raffaele Berzoini**.
 
@@ -59,7 +59,7 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
 
 **Ultimo aggiornamento:** 2026/01/26
 
-Questa Informativa sulla Privacy descrive come l'applicazione **GasTracker: Multi-Fuel** (di seguito "l'Applicazione") raccoglie, utilizza e gestisce i dati dell'utente.
+Questa Informativa sulla Privacy descrive come l'applicazione **DriveLog: Multi-Fuel Car Costs** (di seguito "l'Applicazione") raccoglie, utilizza e gestisce i dati dell'utente.
 
 L'Applicazione è sviluppata da **Raffaele Berzoini**.
 
